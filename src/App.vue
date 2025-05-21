@@ -2,7 +2,7 @@
   <div class="app">
     <h1>MFE 2</h1>
     <div class="card">
-      <button class="btn btn-danger" @click="increment">
+      <button class="btn btn-primary" @click="increment">
         count is {{ count }}
       </button>
     </div>
