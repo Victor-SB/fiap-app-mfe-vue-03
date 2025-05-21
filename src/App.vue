@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-    <h1>MFE 2</h1>
+    <h1>MFE 3</h1>
     <div class="card">
       <button class="btn btn-primary" @click="increment">
         count is {{ count }}
